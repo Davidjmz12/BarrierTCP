@@ -1,0 +1,28 @@
+Process_1 {"Process_1":1}
+Initialization Complete
+Process_1 {"Process_1":2}
+INFO Starting Barrier
+Process_1 {"Process_1":3, "Process_2":3}
+INFO Received barrier message
+Process_1 {"Process_1":4, "Process_2":4}
+INFO Received barrier message
+Process_1 {"Process_1":5, "Process_2":5}
+INFO Received barrier message
+Process_1 {"Process_1":6, "Process_2":6}
+INFO Received barrier message
+Process_1 {"Process_1":7, "Process_2":6}
+INFO Sending barrier message
+Process_1 {"Process_1":8, "Process_2":6}
+INFO Sending barrier message
+Process_1 {"Process_1":9, "Process_2":6}
+INFO Received barrier message
+Process_1 {"Process_1":10, "Process_2":6}
+INFO Sending barrier message
+Process_1 {"Process_1":11, "Process_2":8}
+INFO Received barrier message
+Process_1 {"Process_1":12, "Process_2":8}
+INFO Sending barrier message
+Process_1 {"Process_1":13, "Process_2":8}
+INFO Stopping barrier
+Process_1 {"Process_1":14, "Process_2":8}
+INFO Received barrier message
