@@ -94,4 +94,4 @@ If you have any suggestions, feature requests, or bug reports, please open an is
 If you'd like to contribute code, please fork the repository, create a new branch, and submit a pull request.
 
 ## License
-BarrierTCD is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+BarrierTCD is licensed under the GNU License. See the [LICENSE](LICENSE) file for details.
